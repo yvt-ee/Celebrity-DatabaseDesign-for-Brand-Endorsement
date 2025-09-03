@@ -5,21 +5,34 @@ The dataset is to maintain the data used to generate celebrities’ commercial v
 
 # Business Problems Addressed
 •	Allow brands to generate overall commercial and reputation report of specific celebrity.
+
 •	Provide the insight of reputation of a celebrity based on news summary.
+
 •	Show the relationship that how brand associates with the celebrity work.
+
 •	Supply the information of social media influence when the celebrity promotes commercial products.
 
 # Business Rules
 •	Each celebrity may endorse zero or more brands.
+
 •	Each celebrity may endorse each brand one or more times.
+
 •	Each celebrity may have accounts on zero or more platforms, one per platform.
+
 •	Each platform may own one or more accounts.
+
 •	Each account may post zero or more social media posts.
+
 •	Each celebrity may perform in zero or more artworks.
+
 •	Each artwork may contain one or more celebrities performing.
+
 •	Each celebrity may get zero or more awards.
+
 •	Each award may be awarded one or many times.
+
 •	Each celebrity may get the same award in one or more years.
+
 •	Each celebrity may have multiple news related to zero on many topics.
 
-**fake data, not true**
+**This is synthetic data for demonstration; it contains no real user information.**
