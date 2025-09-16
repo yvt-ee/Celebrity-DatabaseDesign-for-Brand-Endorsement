@@ -12,6 +12,9 @@ The dataset is to maintain the data used to generate celebrities’ commercial v
 
 •	Supply the information of social media influence when the celebrity promotes commercial products.
 
+# Database Technology
+PostgreSQL is used as the relational database system.
+
 # Business Rules
 •	Each celebrity may endorse zero or more brands.
 
